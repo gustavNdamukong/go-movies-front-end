@@ -1,6 +1,6 @@
 ## Movies management app in React.js & Golang
 
-### This is the frontend 
+### This is the frontend (in React.js)
 
 * Features
 
